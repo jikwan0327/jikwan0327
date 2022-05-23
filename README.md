@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <div align=center>
 
-## 🌹learning🌹
+## 📚learning📚
 
 
 [![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white)](github.com/jikwan0327/todolist)
@@ -34,7 +34,6 @@ Here are some ideas to get you started:
   
   
 ## 😄me😄
-  [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:one.jikwan0327@gmail.com)
-
+<a href="https://mail.google.com/mail/u/0/#inbox" target="_blank"><img src="https://img.shields.io/badge/jikwan0327@gmail.com-EA4335?style/badge&logo=Gmail&logoColor=white"></a>
   
 </div>
