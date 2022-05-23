@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=fdb2a2&height=300&section=header&text=jikwan0327%20&fontSize=70&fontColor=f7f5f5)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=jikwan0327🎨&fontSize=70)
 
 learning
 
