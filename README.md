@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 ![header](https://capsule-render.vercel.app/api?type=waving&color=fdb2a2&height=300&section=header&text=jikwan0327%20&fontSize=70&fontColor=f7f5f5)
 
 
-[![HTML](https://img.shields.io/badge/HTML-#E34F26?style=flat-square&logo=HTML5&logoColor=black)](github.com/jikwan0327/todolist)
-[![CSS](https://img.shields.io/badge/CSS-#1572B6?style=flat-square&logo=CSS3&logoColor=black)](github.com/jikwan0327/todolist)
+[![HTML](https://img.shields.io/badge/HTML5-#E34F26?style=flat-square&logo=HTML5&logoColor=black)](github.com/jikwan0327/todolist)
+[![CSS](https://img.shields.io/badge/CSS3-#1572B6?style=flat-square&logo=CSS3&logoColor=black)](github.com/jikwan0327/todolist)
 [![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)](github.com/jikwan0327/todolist)
