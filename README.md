@@ -1,5 +1,3 @@
-### Hi I'm jikwan👋
-
 <!--
 **jikwan0327/jikwan0327** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,6 +14,7 @@ Here are some ideas to get you started:
 -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=jikwan0327🎨&fontSize=70)
 
+<div>
 learning
 
 
@@ -26,3 +25,4 @@ learning
 [![Nodejs](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white)](github.com/jikwan0327/todolist)
 
 
+</div>
