@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <div align=center>
 
-##learning
+##learning##
 
 
 [![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white)](github.com/jikwan0327/todolist)
