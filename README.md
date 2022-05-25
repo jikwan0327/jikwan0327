@@ -37,5 +37,6 @@ Here are some ideas to get you started:
   
 ## 😄me😄
 <a href="https://mail.google.com/mail/u/0/#inbox" target="_blank"><img src="https://img.shields.io/badge/jikwan0327@gmail.com-EA4335?style/badge&logo=Gmail&logoColor=white"></a>
+<a href="https://www.instagram.com/jikwan0327/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style/badge&logo=Instagram&logoColor=white">
   
 </div>
