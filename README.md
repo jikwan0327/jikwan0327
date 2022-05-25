@@ -32,6 +32,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/GitKraken-179287?style=flat-square&logo=GitKraken&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style/badge&logo=GitHub&logoColor=white">
   <img src="https://img.shields.io/badge/Visual Stdio-5C2D91?style/badge&logo=Visual-Studio&logoColor=white">
+  
 <br><br>
   
   
@@ -40,4 +41,6 @@ Here are some ideas to get you started:
 <a href="https://www.instagram.com/jikwan0327/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style/badge&logo=Instagram&logoColor=white">
 <a href="https://velog.io/@jikwan12" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style/badge&logo=Velog&logoColor=white">
   
+    <a href="https://github.com/JJIIIINN/github-readme-stats">
+    <br><br><img src="https://github-readme-stats.vercel.app/api?username=JJIIIINN&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"/>
 </div>
