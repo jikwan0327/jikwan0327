@@ -15,9 +15,6 @@ Here are some ideas to get you started:
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=jikwan0327🎨&fontSize=70&animation=twinkling)
 
   <p align="center">
- <a href="https://github.com/jikwan0327/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=jikwan0327&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"/></a></p>
-
 <div align=center>
 
 ## 📚learning📚
@@ -47,5 +44,8 @@ Here are some ideas to get you started:
 <a href="https://velog.io/@jikwan12" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style/badge&logo=Velog&logoColor=white">
 <div>
  </div>
+ <a href="https://github.com/jikwan0327/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=jikwan0327&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"/></a></p>
+
 </div>
 
