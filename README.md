@@ -60,3 +60,6 @@ Here are some ideas to get you started:
 
 </div>
 
+<br />
+<img src="https://activity-graph.herokuapp.com/graph?username=jikwan0327&theme=react-dark" alt="Github Activity Graph" width="100%" />
+
