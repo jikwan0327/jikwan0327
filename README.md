@@ -25,7 +25,12 @@ Here are some ideas to get you started:
 [![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)](github.com/jikwan0327/todolist)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)](github.com/jikwan0327/todolist)
 [![Nodejs](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white)](github.com/jikwan0327/todolist)
+<br />
 [![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white)](github.com/jikwan0327/todolist)
+[![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white)](github.com/jikwan0327/todolist)
+[![Go](https://img.shields.io/badge/go-00ADD8?style=flat-square&logo=go&logoColor=white)](github.com/jikwan0327/todolist)
+[![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white)](github.com/jikwan0327/todolist)
+
 
 <br><br>
 ## 🔨tool🔨
@@ -34,6 +39,12 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/GitKraken-179287?style=flat-square&logo=GitKraken&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style/badge&logo=GitHub&logoColor=white">
   <img src="https://img.shields.io/badge/Visual Stdio-5C2D91?style/badge&logo=Visual-Studio&logoColor=white">
+  <br />
+  <img src="https://img.shields.io/badge/PyCharm-000000?style/badge&logo=PyCharm&logoColor=white">
+  <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style/badge&logo=IntelliJ IDEA&logoColor=white">
+  <img src="https://img.shields.io/badge/WebStorm-000000?style/badge&logo=WebStorm&logoColor=white">
+  <img src="https://img.shields.io/badge/GoLand-000000?style/badge&logo=Goland&logoColor=white">
+
   
 <br><br>
   
