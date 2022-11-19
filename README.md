@@ -28,7 +28,6 @@ Here are some ideas to get you started:
 <br />
 [![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white)](github.com/jikwan0327/todolist)
 [![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white)](github.com/jikwan0327/todolist)
-[![Go](https://img.shields.io/badge/go-00ADD8?style=flat-square&logo=go&logoColor=white)](github.com/jikwan0327/todolist)
 [![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white)](github.com/jikwan0327/todolist)
 
 
