@@ -39,10 +39,6 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/GitHub-181717?style/badge&logo=GitHub&logoColor=white">
   <img src="https://img.shields.io/badge/Visual Stdio-5C2D91?style/badge&logo=Visual-Studio&logoColor=white">
   <br />
-  <img src="https://img.shields.io/badge/PyCharm-000000?style/badge&logo=PyCharm&logoColor=white">
-  <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style/badge&logo=IntelliJ IDEA&logoColor=white">
-  <img src="https://img.shields.io/badge/WebStorm-000000?style/badge&logo=WebStorm&logoColor=white">
-  <img src="https://img.shields.io/badge/GoLand-000000?style/badge&logo=Goland&logoColor=white">
 
   
 <br><br>
@@ -53,12 +49,3 @@ Here are some ideas to get you started:
 <a href="https://www.instagram.com/jikwan0327/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style/badge&logo=Instagram&logoColor=white">
 <a href="https://velog.io/@jikwan12" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style/badge&logo=Velog&logoColor=white">
 <div>
- </div>
- <a href="https://github.com/jikwan0327/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=jikwan0327&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"/></a></p>
-
-</div>
-
-<br />
-<img src="https://activity-graph.herokuapp.com/graph?username=jikwan0327&theme=react-dark" alt="Github Activity Graph" width="100%" />
-
